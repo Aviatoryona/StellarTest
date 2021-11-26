@@ -1,0 +1,18 @@
+{
+  "name": "stellartest",
+  "version": "1.0.0",
+  "description": "Stellar Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "stellar"
+  ],
+  "author": "Aviator K",
+  "license": "MIT",
+  "dependencies": {
+    "stellar-base": "^6.0.6",
+    "stellar-sdk": "^9.1.0"
+  }
+}
